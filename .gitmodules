@@ -1,0 +1,6 @@
+[submodule "Makethon"]
+	path = Makethon
+	url = ..\\Makethon\\
+[submodule "MakeathonWebsite"]
+	path = MakeathonWebsite
+	url = .\\MakeathonWebsite\\
