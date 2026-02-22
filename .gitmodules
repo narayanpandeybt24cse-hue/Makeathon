@@ -1,6 +1,6 @@
 [submodule "Makethon"]
 	path = Makethon
-	url = ..\\Makethon\\
+	url = https://github.com/narayanpandeybt24cse-hue/MakethonApp.git
 [submodule "MakeathonWebsite"]
 	path = MakeathonWebsite
-	url = .\\MakeathonWebsite\\
+	url = https://github.com/vaibhav786775/Makethon.git
